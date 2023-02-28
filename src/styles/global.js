@@ -10,15 +10,7 @@ export default createGlobalStyle`
 }
 
 :root {
-    --violetCore: #5965E0;
-    --whiteText: #EEEFF3;
     --bkgdColor: #E5E5E5;
-    --darkBlue: #2E384D;
-    --green: #63E0D0;
-    --yellow: #F1D161;
-    --violetLight: #B3B9FF;
-    --white: #fff;
-    --brown: #3B3744;
 }
 
 body {
